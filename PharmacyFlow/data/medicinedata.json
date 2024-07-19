@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Ritemed 120mg Paediatric Oral Suspension Strawberry",
+      "description": "Bottle of 60ml oral suspension",
+      "image": "CovidEssentials",
+      "price": 12.20,
+      "discountedPrice": null,
+      "discount": null,
+      "stock": "In Stock",
+      "contains": "Paracetamol",
+      "manufacturer": "Franklin Laboratories (India) Pvt. Ltd",
+      "countryOfOrigin": "Paracetamol",
+      "storage": "Paracetamol Loose 500 MG Tablet should be stored at room temperature protected from moisture, heat, and sunlight. It should be kept away from the reach of children and pets. Do not use it after the expiry date. Any Unused medicatioin should be discarderd properly and never consume without doctors consultation"    
+    },
+    {
+      "id": "2",
+      "name": "Ritemed 120mg Paediatric Oral Suspension Strawberry",
+      "description": "Bottle of 60ml oral suspension",
+      "image": "CovidEssentials",
+      "price": 12.20,
+      "discountedPrice": 15.00,
+      "discount": "20% Off",
+      "stock": "In Stock",
+      "contains": "Paracetamol",
+      "manufacturer": "Franklin Laboratories (India) Pvt. Ltd",
+      "countryOfOrigin": "Paracetamol",
+      "storage": "Paracetamol Loose 500 MG Tablet should be stored at room temperature protected from moisture, heat, and sunlight. It should be kept away from the reach of children and pets. Do not use it after the expiry date. Any Unused medicatioin should be discarderd properly and never consume without doctors consultation"    
+    },
+    {
+      "id": "3",
+      "name": "Ritemed 120mg Paediatric Oral Suspension Strawberry",
+      "description": "Bottle of 60ml oral suspension",
+      "image": null,
+      "price": 12.20,
+      "discountedPrice": 15.00,
+      "discount": "20% Off",
+      "stock": "In Stock",
+      "contains": "Paracetamol",
+      "manufacturer": "Franklin Laboratories (India) Pvt. Ltd",
+      "countryOfOrigin": "Paracetamol",
+      "storage": "Paracetamol Loose 500 MG Tablet should be stored at room temperature protected from moisture, heat, and sunlight. It should be kept away from the reach of children and pets. Do not use it after the expiry date. Any Unused medicatioin should be discarderd properly and never consume without doctors consultation"    
+    },
+    {
+      "id": "4",
+      "name": "Ritemed 120mg Paediatric Oral Suspension Strawberry",
+      "description": "Bottle of 60ml oral suspension",
+      "image": "CovidEssentials",
+      "price": 12.20,
+      "discountedPrice": 15.00,
+      "discount": "20% Off",
+      "stock": "Out of Stock",
+      "contains": "Paracetamol",
+      "manufacturer": "Franklin Laboratories (India) Pvt. Ltd",
+      "countryOfOrigin": "Paracetamol",
+      "storage": "Paracetamol Loose 500 MG Tablet should be stored at room temperature protected from moisture, heat, and sunlight. It should be kept away from the reach of children and pets. Do not use it after the expiry date. Any Unused medicatioin should be discarderd properly and never consume without doctors consultation"    
+    },
+    {
+      "id": "5",
+      "name": "Ritemed 120mg Paediatric Oral Suspension Strawberry",
+      "description": "Bottle of 60ml oral suspension",
+      "image": null,
+      "price": 12.20,
+      "discountedPrice": 15.00,
+      "discount": "20% Off",
+      "stock": "Out of Stock",
+      "contains": "Paracetamol",
+      "manufacturer": "Franklin Laboratories (India) Pvt. Ltd",
+      "countryOfOrigin": "Paracetamol",
+      "storage": "Paracetamol Loose 500 MG Tablet should be stored at room temperature protected from moisture, heat, and sunlight. It should be kept away from the reach of children and pets. Do not use it after the expiry date. Any Unused medicatioin should be discarderd properly and never consume without doctors consultation"    
+    }
+  ]
+}

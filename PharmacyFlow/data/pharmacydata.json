@@ -1,0 +1,16 @@
+{
+    "storeName":"Central Med Store",
+    "deliveryAddress":"57 Ashoka rd,southern Right ",
+    "categories":[
+        {"name":"Covid Essentials" , "image":"CovidEssentials"},
+        {"name":"Baby Care" , "image":"BabyCare"},
+        {"name":"Cold & Flu" , "image":"ColdFlu"},
+        {"name":"Medicated Relief" , "image":"CovidEssentials"},
+        {"name":"Nutrition" , "image":"ColdFlu"},
+        {"name":"Cosmetics" , "image":"Cosmetics"},
+        {"name":"Diabetes Care" , "image":"DiabetesCare"},
+        {"name":"Homeopathy" , "image":"Homeopathy"},
+        {"name":"Supplement" , "image":"Supplement"}
+
+    ]
+}
